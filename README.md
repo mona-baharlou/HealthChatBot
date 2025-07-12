@@ -24,7 +24,7 @@ Great for privacy-conscious users, mental health projects, or learning how to co
 
 Welcome to your local mental health assistant.
 How are you feeling today?
->> I'm feeling stressed and alone.
+> I'm feeling stressed and alone.
 
 Detected mood: negative
 
